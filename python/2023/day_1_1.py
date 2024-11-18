@@ -17,6 +17,7 @@ Adding these together produces 142.
 
 Consider your entire calibration document. What is the sum of all of the calibration values?
 """
+
 from typing import List
 
 
