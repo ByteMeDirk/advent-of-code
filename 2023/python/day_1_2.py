@@ -110,7 +110,7 @@ def main():
     """
     Main function to calculate the sum of all calibration values.
     """
-    data: List = get_list_from_txt("data/day_1_1.txt")
+    data: List = get_list_from_txt("data/day_1.txt")
     w2n: List = [word_to_number(row) for row in data]
     numbers: List = [get_first_and_last(row) for row in w2n]
     return sum(numbers)
