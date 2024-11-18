@@ -9,10 +9,10 @@ This repository contains my solutions to the puzzles, grouped by language, year,
 
 ### Python
 
-- [Day 1.1](./python/2023/day_1_1.py)
-- [Day 1.2](./python/2023/day_1_2.py)
-- [Day 2.1](./python/2023/day_2_1.py)
-- [Day 2.2](./python/2023/day_2_2.py)
+- [Day 1.1](./2023/python/day_1_1.py)
+- [Day 1.2](./2023/python/day_1_2.py)
+- [Day 2.1](./2023/python/day_2_1.py)
+- [Day 2.2](./2023/python/day_2_2.py)
 
 ### Scala
 
